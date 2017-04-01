@@ -1,0 +1,5 @@
+connection ก็
+Host : localhost
+User : bbesecom_ton
+Pw : IceTearShutUp_5678 
+DB : bbesecom_chizaki
